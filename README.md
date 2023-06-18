@@ -1,7 +1,6 @@
 # Graphic Designer Profile
 
-Winaring Suryo Satuti(SHE/HER)<br>
-Graphic Designer | Social Media Specialist | UI/UX Designer
+<h3><a href='https://github.com/winar/profile'>WINARING SURYO SATUTI</a> (SHE/HER)<br><h4>Graphic Designer | Social Media Specialist | UI/UX Designer</h4></h3>
 
 ## Introduction
 
@@ -61,8 +60,8 @@ At Tjap Tiga Naga, my achievements as a Graphic Designer, Social Media Specialis
 
 ## Certifications
 
-- [Certification Name]: [Certification Authority], [Year]
-- [Certification Name]: [Certification Authority], [Year]
+- <a href='https://github.com/Winar/Profile/blob/main/Certificate%20%5BLGN%20SGN%20AXY%5D%20-%20Winaring%20S%20Satuti.pdf'>The Fundamental of Digital Marketing</a>: Google Digital Garage, [2020]
+- <a href='https://github.com/Winar/Profile/blob/main/Certificate%20%5B7159937%5D%20-%20Winaring%20S%20Satuti.pdf'>Video Editing using Filmora</a>: karier.mu, [2022]
 
 ## Contact Information
 
