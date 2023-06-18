@@ -21,6 +21,11 @@ Welcome to my graphic design portfolio! Explore a collection of repositories sho
 
 ## Portfolio
 
+### Project 1: Social media Content Creator and Planner
+- Description: I am involved in developing and executing engaging and impactful content strategies for various projects. I work closely with clients or teams to understand their goals and target audience, allowing me to create compelling and relevant content that resonates with the intended viewers or readers. From brainstorming ideas to researching and gathering information, I meticulously plan the content to ensure it aligns with the project's objectives and captures the essence of the brand or message. As a content creator, I bring these plans to life by crafting captivating and high-quality content in various formats, such as articles, videos, social media posts, or graphics. With attention to detail and a focus on delivering valuable and engaging material, I aim to make a lasting impact and connect with the audience in a meaningful way. Through my expertise in content creation and planning, I strive to deliver compelling narratives and drive the desired outcomes for the projects I work on.
+- Technologies Used: Canva
+- Link: <a href='https://www.instagram.com/minbe.semotif'>MinbeSemotif</a>
+
 ### Project 1: [Project Name]
 
 - Description: [Provide a brief description of the project, including the client (if applicable) and your role in the project.]
@@ -66,7 +71,7 @@ At Tjap Tiga Naga, my achievements as a Graphic Designer, Social Media Specialis
 ## Contact Information
 
 - Email: <a href="mailto:Gniraniw@gmail.com">Gniraniw@gmail.com</a>
-- Website/Portfolio: <a href="https://github.com/winar/profile">winaring' portfolio profile</a>
+- Website/Portfolio: <a href="https://github.com/winar/profile">winaring's profile portfolio</a>
 - LinkedIn: <a href="https://www.linkedin.com/winaring-satuti">winaring suryo satuti</a>
 - Twitter: <a href="https://twitter.com/winaringsuryo">winaring suryo satuti</a>
 
