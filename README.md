@@ -26,19 +26,11 @@ Welcome to my graphic design portfolio! Explore a collection of repositories sho
 - Technologies Used: Canva
 - Link: <a href='https://www.instagram.com/minbe.semotif'>MinbeSemotif</a>
 
-### Project 1: [Project Name]
+### Project 2: Social media Specialist
 
-- Description: [Provide a brief description of the project, including the client (if applicable) and your role in the project.]
-- Technologies/Tools Used: [List the tools or software you used to complete the project.]
-- Link: [Insert a link to the project if it's available online.]
-
-### Project 2: [Project Name]
-
-- Description: [Provide a brief description of the project, including the client (if applicable) and your role in the project.]
-- Technologies/Tools Used: [List the tools or software you used to complete the project.]
-- Link: [Insert a link to the project if it's available online.]
-
-[Include additional projects following the same format]
+- Description: I have actively contributed to the company's online presence and audience engagement. With a focus on audience engagement and growth, my primary responsibility has been to create captivating content that resonates with our target audience. As a content creator, I have crafted engaging posts and developed strategies to increase user interaction and followers. Additionally, I have utilized my design skills to create visually appealing and impactful poster designs that effectively communicate the brand's message. Through my efforts, I have played a vital role in enhancing Tjap Tiga Naga's social media presence, driving audience engagement, and fostering growth within the online community.
+- Technologies/Tools Used: Photoshop, Canva
+- Link: <a href='https://www.instagram.com/tjaptiganaga/'>Tjap Tiga Naga</a>
 
 ## Experience
 
