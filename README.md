@@ -1,5 +1,4 @@
-# Graphic Designer Profile
-
+# Digital Marketing
 <h3><a href='https://github.com/winar/profile'>WINARING SURYO SATUTI</a> (SHE/HER)<br><h4>Graphic Designer | Social Media Specialist | UI/UX Designer</h4></h3>
 
 ## Introduction
